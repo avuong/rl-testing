@@ -24,11 +24,13 @@ I personally use and highly recommend the [Anaconda Distribution](https://www.an
 
 
 #### Renderings <a name="renderings"></a>
-
+*Trained DDQN Agent, CartPole-v1*
 ![alt text](https://github.com/kphng/rl-testing/blob/master/assets/giphyCartPole.gif)
 
+*Trained DDQN Agent, Acrobot-v1*
 ![alt text](https://github.com/kphng/rl-testing/blob/master/assets/giphyAcrobot.gif)
 
+*Trained DDQN Agent, MountainCar-v0 (actions repeated 10x)*
 ![alt text](https://github.com/kphng/rl-testing/blob/master/assets/giphyMountainCar.gif)
 
 #### Graphs <a name="graphs"></a>
