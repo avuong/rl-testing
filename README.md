@@ -24,6 +24,7 @@ I personally use and highly recommend the [Anaconda Distribution](https://www.an
 
 
 #### Renderings <a name="renderings"></a>
+
 *Trained DDQN Agent, CartPole-v1*
 ![alt text](https://github.com/kphng/rl-testing/blob/master/assets/giphyCartPole.gif)
 
