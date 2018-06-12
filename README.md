@@ -4,7 +4,6 @@ An ongoing personal project to make reinforcement learning experimentation as ef
 
 
 # Prerequisites
----
 
 Here are the required libraries to run the scripts:
 * Python 3.6
@@ -16,15 +15,12 @@ Here are the required libraries to run the scripts:
 I personally use and highly recommend the [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/) and the conda package installer to ensure compatibility in the dependencies.
 
 # Implementing Custom Agents
----
 
 
-# The `config.py` file
----
+# The `config.py` File
 
 
 # Generated Files
----
 
 
 #### Renderings <a name="renderings"></a>
